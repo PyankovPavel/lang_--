@@ -1,3 +1,5 @@
-﻿int A = 3;
-int B = 5;
-Console.WriteLine(A + B);
+﻿int A = new Random().Next(1, 100);
+Console.WriteLine("Number A is " + A);
+int B = new Random().Next(1, 100);
+Console.WriteLine("Number B is " + B);
+Console.WriteLine("Answer: " + (A + B));
