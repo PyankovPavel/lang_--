@@ -1,0 +1,15 @@
+D:\Java\GeekBrains NEW 2022\Lections\lang_с#\Example1\bin\Debug\net6.0\Example1.exe
+D:\Java\GeekBrains NEW 2022\Lections\lang_с#\Example1\bin\Debug\net6.0\Example1.deps.json
+D:\Java\GeekBrains NEW 2022\Lections\lang_с#\Example1\bin\Debug\net6.0\Example1.runtimeconfig.json
+D:\Java\GeekBrains NEW 2022\Lections\lang_с#\Example1\bin\Debug\net6.0\Example1.dll
+D:\Java\GeekBrains NEW 2022\Lections\lang_с#\Example1\bin\Debug\net6.0\Example1.pdb
+D:\Java\GeekBrains NEW 2022\Lections\lang_с#\Example1\obj\Debug\net6.0\Example1.csproj.AssemblyReference.cache
+D:\Java\GeekBrains NEW 2022\Lections\lang_с#\Example1\obj\Debug\net6.0\Example1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Java\GeekBrains NEW 2022\Lections\lang_с#\Example1\obj\Debug\net6.0\Example1.AssemblyInfoInputs.cache
+D:\Java\GeekBrains NEW 2022\Lections\lang_с#\Example1\obj\Debug\net6.0\Example1.AssemblyInfo.cs
+D:\Java\GeekBrains NEW 2022\Lections\lang_с#\Example1\obj\Debug\net6.0\Example1.csproj.CoreCompileInputs.cache
+D:\Java\GeekBrains NEW 2022\Lections\lang_с#\Example1\obj\Debug\net6.0\Example1.dll
+D:\Java\GeekBrains NEW 2022\Lections\lang_с#\Example1\obj\Debug\net6.0\refint\Example1.dll
+D:\Java\GeekBrains NEW 2022\Lections\lang_с#\Example1\obj\Debug\net6.0\Example1.pdb
+D:\Java\GeekBrains NEW 2022\Lections\lang_с#\Example1\obj\Debug\net6.0\Example1.genruntimeconfig.cache
+D:\Java\GeekBrains NEW 2022\Lections\lang_с#\Example1\obj\Debug\net6.0\ref\Example1.dll
